@@ -6,7 +6,7 @@
 
 GOODIES
 -------------------
-* smart MY_Controller to manage view rendering.
+* view rendering handled by a smart MY_Controller.
 * jQuery 1.7.1
 * underscore.js 1.3.1
 * nav_helper
