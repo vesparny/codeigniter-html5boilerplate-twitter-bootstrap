@@ -6,9 +6,11 @@
 
 GOODIES
 -------------------
-* view rendering handled by a smart MY_Controller.
+* Codeigniter 2.1.0
 * bootstrap 2.0.1
 * html5boilerplate 3.0.2
+
+* view rendering handled by a smart MY_Controller.
 * jQuery 1.7.1
 * underscore.js 1.3.1
 * nav_helper
