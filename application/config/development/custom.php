@@ -7,4 +7,4 @@ $config['site_keywords'] = 'key1, key2';
 
 
 /* End of file custom.php */
-/* Location: ./application/config/arny/custom.php */
+/* Location: ./application/config/development/custom.php */
