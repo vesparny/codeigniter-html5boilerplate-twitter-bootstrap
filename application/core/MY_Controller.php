@@ -2,7 +2,6 @@
 
 class MY_Controller extends CI_Controller{
 	
-	
 	//Page info
 	protected $data = Array();
 	protected $pageName = false;
