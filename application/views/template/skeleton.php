@@ -24,8 +24,6 @@
 <?php endforeach;?>
 
 <!-- extra fonts-->
-<link href="http://fonts.googleapis.com/css?family=Lobster"
-	rel="stylesheet" type="text/css">
 <?php foreach($fonts as $f):?>
 <link href="http://fonts.googleapis.com/css?family=<?php echo $f?>"
 	rel="stylesheet" type="text/css">
