@@ -1,3 +1,3 @@
-<footer id="footer">
+<footer id="footer" class="row">
 	footer
 </footer>

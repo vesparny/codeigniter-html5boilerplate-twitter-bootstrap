@@ -42,7 +42,6 @@
 </head>
 <body>
 	<?php echo $body ?>
-
 	<script
 		src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 	<script>window.jQuery || document.write('<script src="<?php echo base_url(JS."libs/jquery-1.7.1.min.js");?>"><\/script>')</script>
