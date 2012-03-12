@@ -4,18 +4,18 @@ class MY_Controller extends CI_Controller{
 	
 	//Page info
 	protected $data = Array();
-	protected $pageName = false;
+	protected $pageName = FALSE;
 	protected $template = "main";
-	protected $hasNav = true;
+	protected $hasNav = TRUE;
 	//Page contents
 	protected $javascript = array();
 	protected $css = array();
 	protected $fonts = array();
 	//Page Meta
-	protected $title = false;
-	protected $description = false;
-	protected $keywords = false;
-	protected $author = false;
+	protected $title = FALSE;
+	protected $description = FALSE;
+	protected $keywords = FALSE;
+	protected $author = FALSE;
 	
 	function __construct()
 	{	
@@ -53,7 +53,7 @@ class MY_Controller extends CI_Controller{
 			$toMenu["pageName"] = $this->pageName;
 			$toHeader["nav"] = $this->load->view("template/nav",$toMenu,true);
 		}
-		$toHeader["basejs"] = $this->load->view("template/basejs",'',true);
+		$toHeader["basejs"] = $this->load->view("template/basejs",$this->data,true);
 		
 		$toBody["header"] = $this->load->view("template/header",$toHeader,true);
 		$toBody["footer"] = $this->load->view("template/footer",'',true);

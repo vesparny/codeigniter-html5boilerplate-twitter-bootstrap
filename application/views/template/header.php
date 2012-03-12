@@ -1,4 +1,7 @@
-<?php echo $basejs?>
-<header id="header" class="row">
-<?php echo $nav?>
+<header id="header" class="navbar navbar-fixed-top">
+  <div class="navbar-inner">
+    <div class="container">
+     <?php echo $nav?>
+    </div>
+  </div>
 </header>
