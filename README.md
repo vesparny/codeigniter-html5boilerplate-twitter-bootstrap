@@ -21,4 +21,12 @@ USAGE
 3. take a look to home controller and template view files to understand how does rendering works.
 4. create your template: i've set up an header, footer, nav, and main for example purpose. Skeleton.php contains the scaffolding page.
 
-<i>MY_Controller</i> is made for my page basic template, feel free to improve it. Send a pull request, or contact me.
+My_Controller
+------------------- 
+is made for my basic page template.
+You need to customize it in order to match your needs.
+Feel free to improve it.
+Send a pull request, or contact me.
+
+http://arny.me
+a.arnodo@gmail.com
