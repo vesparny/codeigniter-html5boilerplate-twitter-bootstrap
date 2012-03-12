@@ -28,5 +28,5 @@ You need to customize it in order to match your needs.
 Feel free to improve it.
 Send a pull request, or contact me.
 
-http://arny.me
-a.arnodo@gmail.com
+* http://arny.me
+* a.arnodo@gmail.com
