@@ -6,6 +6,7 @@
 * bootstrap 2.0.1
 * html5boilerplate 3.0.2
 * unique style css contains all bootstrap css (responsive and basic), ang global css for custom styles.
+* unique plugin js contains all bootstrap plugins.
 * view rendering handled by a smart MY_Controller.
 * jQuery 1.7.1
 * underscore.js 1.3.1
