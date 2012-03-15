@@ -3,7 +3,7 @@
 	VERSION 1.1.0
 
 * Codeigniter 2.1.0
-* bootstrap 2.0.1
+* bootstrap 2.0.2
 * html5boilerplate 3.0.2
 * unique style css contains all bootstrap css (responsive and basic), ang global css for custom styles.
 * unique plugin js contains all bootstrap plugins.
