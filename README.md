@@ -21,6 +21,7 @@ USAGE
 2. set up yor defaults values in application/config/development/custom.php
 3. take a look to home controller and template view files to understand how does rendering works.
 4. create your template: i've set up an header, footer, nav, and main for example purpose. Skeleton.php contains the scaffolding page.
+5. pass your data to the view using in controller $this->data["my_var"] = "value";
 
 My_Controller
 ------------------- 
