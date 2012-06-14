@@ -9,11 +9,11 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <title><?php echo $title ?></title>
-<title><?php echo $description ?></title>
 
 <meta name="viewport" content="width=device-width">
 <meta name="keywords" content="<?php echo $keywords ?>" />
 <meta name="author" content="<?php echo $author ?>" />
+<meta name="description" content="<?php echo $description ?>" />
 
 <link rel="stylesheet" href="<?php echo base_url(CSS."style.css");?>">
 <link rel="stylesheet" href="<?php echo base_url(CSS."global.css");?>">
