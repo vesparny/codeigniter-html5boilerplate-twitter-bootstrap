@@ -43,7 +43,7 @@ define('FOPEN_READ_WRITE_CREATE_STRICT',		'x+b');
 |
 */
 
-define('IMAGES','resources/images/');
+define('IMAGES','resources/img/');
 define('JS','resources/js/');
 define('CSS','resources/css/');
 define('UPLOAD','resources/upload/');
