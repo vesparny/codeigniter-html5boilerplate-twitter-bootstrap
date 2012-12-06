@@ -38,6 +38,6 @@ Author
 
 +	[@vesparny](https://twitter.com/vesparny)
 
-+	[http://arnodo.net](http://arnodo.net)
++	[http://www.arnodo.net](http://www.arnodo.net)
 
 +	<mailto:alessandro@arnodo.net>
