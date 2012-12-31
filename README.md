@@ -12,16 +12,16 @@
 * jQuery 1.8.3
 * underscore.js 1.4.3
 * nav_helper
-* .htacces tip for remove index.php
+* .htaccess tip for remove index.php
 * basejs view always include in page. (usefull to access via js some server side information e.g. base_url())
 
 USAGE
 -------------------
 1. edit .htaccess file in order to match your server config (see line 5 in the file);
-	if you have http://localhost/site you nedd to set RewriteBase /site/
-2. set up yor defaults values in application/config/development/custom.php
+	if you have http://localhost/site you need to set RewriteBase /site/
+2. set up your defaults values in application/config/development/custom.php
 3. take a look to home controller and template view files to understand how does rendering works.
-4. create your template: i've set up an header, footer, nav, and main for example purpose. Skeleton.php contains the scaffolding page.
+4. create your template: I've set up an header, footer, nav, and main for example purpose. Skeleton.php contains the scaffolding page.
 5. pass your data to the view using in controller $this->data["my_var"] = "value";
 
 My_Controller
