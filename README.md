@@ -4,13 +4,13 @@
 	VERSION 1.1.2
 
 * Codeigniter 2.1.3
-* bootstrap 2.2.1
+* bootstrap 2.3.1
 * html5boilerplate 4.0.0
 * unique style css contains all bootstrap css (responsive and basic), and global css for custom styles.
 * unique plugin js contains all bootstrap plugins.
 * view rendering handled by a smart MY_Controller.
-* jQuery 1.8.3
-* underscore.js 1.4.3
+* jQuery 1.9.1
+* underscore.js 1.4.4
 * nav_helper
 * .htaccess tip for remove index.php
 * basejs view always include in page. (usefull to access via js some server side information e.g. base_url())
