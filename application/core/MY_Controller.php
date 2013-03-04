@@ -32,7 +32,16 @@ class MY_Controller extends CI_Controller{
 	}
 	 
 	
-	protected function _render($view) {
+	protected function _render($view,$renderData="FULLPAGE") {
+        switch ($renderData) {
+        case "AJAX"     :
+            $this->load->view($view,$this->data);
+        break;
+        case "JSON"     :
+            echo json_encode($this->data);
+        break;
+        case "FULLPAGE" :
+        default         : 
 		//static
 		$toTpl["javascript"] = $this->javascript;
 		$toTpl["css"] = $this->css;
@@ -63,6 +72,7 @@ class MY_Controller extends CI_Controller{
 		
 		//render view
 		$this->load->view("template/skeleton",$toTpl);
-		
+		 break;
+    }
 	}
 }
