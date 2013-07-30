@@ -31,15 +31,12 @@ You need to customize it in order to match your needs.
 Feel free to improve it.
 Send a pull request, or contact me.
 
-Based On
-------------------- 
+## Author
 
 ####Alessandro Arnodo
 
 +	[@vesparny](https://twitter.com/vesparny)
 
-Modified By
--------------------
-####Ben Warburton
++	[http://alessandro.arnodo.net](http://alessandro.arnodo.net)
 
-+	[travoltron](http://travoltron.com)
++	<mailto:alessandro@arnodo.net>
