@@ -1,3 +1,5 @@
+# PLEASE NOTE, THIS PROJECT IS NO LONGER BEING MAINTAINED
+
 ### A CodeIgniter skeleton application based on twitter bootstrap and html5boilerplate.
 ---------------------------------------------------
 
